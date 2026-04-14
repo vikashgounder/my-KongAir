@@ -5,4 +5,4 @@ plugins:
     add:
       body: []
       headers:
-      - Kong-Konnect
+      - X-Powered-By:Konnect!!!
